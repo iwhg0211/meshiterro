@@ -22,3 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# DMM WEBCAMPコンテンツ【アプリケーションを完成させよう２】
+
+DMM WEBCAMPの学習コンテンツ[アプリケーションを完成させよう２]のコードです。
+
+## 使い方
+
+rubyonrailsファイルのため、PCのブラウザで実行できます。
