@@ -8,7 +8,7 @@ class PostImagesController < ApplicationController
     @post_image.user_id = current_user.id
     if
      @post_image.save
-     redirect_to post_images_path
+     redirect_to post_images_path(post_image)
     else
      render :new
     end
